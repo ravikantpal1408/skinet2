@@ -1,3 +1,10 @@
+/Volumes/MyDrive/WORK/skinet/API/obj/Debug/net5.0/API.csproj.AssemblyReference.cache
+/Volumes/MyDrive/WORK/skinet/API/obj/Debug/net5.0/API.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/MyDrive/WORK/skinet/API/obj/Debug/net5.0/API.AssemblyInfoInputs.cache
+/Volumes/MyDrive/WORK/skinet/API/obj/Debug/net5.0/API.AssemblyInfo.cs
+/Volumes/MyDrive/WORK/skinet/API/obj/Debug/net5.0/API.csproj.CoreCompileInputs.cache
+/Volumes/MyDrive/WORK/skinet/API/obj/Debug/net5.0/API.MvcApplicationPartsAssemblyInfo.cs
+/Volumes/MyDrive/WORK/skinet/API/obj/Debug/net5.0/API.MvcApplicationPartsAssemblyInfo.cache
 /Volumes/MyDrive/WORK/skinet/API/bin/Debug/net5.0/appsettings.Development.json
 /Volumes/MyDrive/WORK/skinet/API/bin/Debug/net5.0/appsettings.json
 /Volumes/MyDrive/WORK/skinet/API/bin/Debug/net5.0/API.deps.json
@@ -6,6 +13,8 @@
 /Volumes/MyDrive/WORK/skinet/API/bin/Debug/net5.0/API.dll
 /Volumes/MyDrive/WORK/skinet/API/bin/Debug/net5.0/ref/API.dll
 /Volumes/MyDrive/WORK/skinet/API/bin/Debug/net5.0/API.pdb
+/Volumes/MyDrive/WORK/skinet/API/bin/Debug/net5.0/AutoMapper.dll
+/Volumes/MyDrive/WORK/skinet/API/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 /Volumes/MyDrive/WORK/skinet/API/bin/Debug/net5.0/Humanizer.dll
 /Volumes/MyDrive/WORK/skinet/API/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
 /Volumes/MyDrive/WORK/skinet/API/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
@@ -50,13 +59,6 @@
 /Volumes/MyDrive/WORK/skinet/API/bin/Debug/net5.0/Infrastructure.dll
 /Volumes/MyDrive/WORK/skinet/API/bin/Debug/net5.0/Infrastructure.pdb
 /Volumes/MyDrive/WORK/skinet/API/bin/Debug/net5.0/Core.pdb
-/Volumes/MyDrive/WORK/skinet/API/obj/Debug/net5.0/API.csproj.AssemblyReference.cache
-/Volumes/MyDrive/WORK/skinet/API/obj/Debug/net5.0/API.GeneratedMSBuildEditorConfig.editorconfig
-/Volumes/MyDrive/WORK/skinet/API/obj/Debug/net5.0/API.AssemblyInfoInputs.cache
-/Volumes/MyDrive/WORK/skinet/API/obj/Debug/net5.0/API.AssemblyInfo.cs
-/Volumes/MyDrive/WORK/skinet/API/obj/Debug/net5.0/API.csproj.CoreCompileInputs.cache
-/Volumes/MyDrive/WORK/skinet/API/obj/Debug/net5.0/API.MvcApplicationPartsAssemblyInfo.cs
-/Volumes/MyDrive/WORK/skinet/API/obj/Debug/net5.0/API.MvcApplicationPartsAssemblyInfo.cache
 /Volumes/MyDrive/WORK/skinet/API/obj/Debug/net5.0/staticwebassets/API.StaticWebAssets.Manifest.cache
 /Volumes/MyDrive/WORK/skinet/API/obj/Debug/net5.0/staticwebassets/API.StaticWebAssets.xml
 /Volumes/MyDrive/WORK/skinet/API/obj/Debug/net5.0/scopedcss/bundle/API.styles.css

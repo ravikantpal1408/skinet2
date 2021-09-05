@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "14JXTj6jmbc3dJE/o44f1ZMO0ExSiHJrITi8uRvartO+cpLd56r82SAEu4nExY4nycGFuli4rn/DjbrvsGRDaA==",
+  "dgSpecHash": "KPQw4gqy4CYSyJ77vei1g1uackX5IFXzzJRvPZ/ddkEm/Ar/ytCbwlevN5IRgADWmrgS+HsK9ImTFNRRY6A3UA==",
   "success": true,
   "projectFilePath": "/Volumes/MyDrive/WORK/skinet/API/API.csproj",
   "expectedPackageFiles": [
+    "/Users/ravi/.nuget/packages/automapper/9.0.0/automapper.9.0.0.nupkg.sha512",
+    "/Users/ravi/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/7.0.0/automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
     "/Users/ravi/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/ravi/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/5.0.9/microsoft.aspnetcore.authentication.jwtbearer.5.0.9.nupkg.sha512",
     "/Users/ravi/.nuget/packages/microsoft.aspnetcore.authentication.openidconnect/5.0.9/microsoft.aspnetcore.authentication.openidconnect.5.0.9.nupkg.sha512",
@@ -33,6 +35,8 @@
     "/Users/ravi/.nuget/packages/microsoft.identitymodel.protocols/6.7.1/microsoft.identitymodel.protocols.6.7.1.nupkg.sha512",
     "/Users/ravi/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/6.7.1/microsoft.identitymodel.protocols.openidconnect.6.7.1.nupkg.sha512",
     "/Users/ravi/.nuget/packages/microsoft.identitymodel.tokens/6.7.1/microsoft.identitymodel.tokens.6.7.1.nupkg.sha512",
+    "/Users/ravi/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/ravi/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "/Users/ravi/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
     "/Users/ravi/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.0.4/sqlitepclraw.bundle_e_sqlite3.2.0.4.nupkg.sha512",
     "/Users/ravi/.nuget/packages/sqlitepclraw.core/2.0.4/sqlitepclraw.core.2.0.4.nupkg.sha512",
@@ -46,8 +50,16 @@
     "/Users/ravi/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "/Users/ravi/.nuget/packages/system.diagnostics.diagnosticsource/5.0.1/system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
     "/Users/ravi/.nuget/packages/system.identitymodel.tokens.jwt/6.7.1/system.identitymodel.tokens.jwt.6.7.1.nupkg.sha512",
+    "/Users/ravi/.nuget/packages/system.io/4.3.0/system.io.4.3.0.nupkg.sha512",
     "/Users/ravi/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
-    "/Users/ravi/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512"
+    "/Users/ravi/.nuget/packages/system.reflection/4.3.0/system.reflection.4.3.0.nupkg.sha512",
+    "/Users/ravi/.nuget/packages/system.reflection.emit/4.3.0/system.reflection.emit.4.3.0.nupkg.sha512",
+    "/Users/ravi/.nuget/packages/system.reflection.emit.ilgeneration/4.3.0/system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
+    "/Users/ravi/.nuget/packages/system.reflection.primitives/4.3.0/system.reflection.primitives.4.3.0.nupkg.sha512",
+    "/Users/ravi/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
+    "/Users/ravi/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "/Users/ravi/.nuget/packages/system.text.encoding/4.3.0/system.text.encoding.4.3.0.nupkg.sha512",
+    "/Users/ravi/.nuget/packages/system.threading.tasks/4.3.0/system.threading.tasks.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
