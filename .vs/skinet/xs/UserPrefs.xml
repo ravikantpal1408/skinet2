@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{D91183B9-10D5-40C5-84CD-4BE3CEEC43AF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Core/Specifications/ISpecification.cs">
+    <Files>
+      <File FileName="API/appsettings.Development.json" Line="12" Column="48" />
+      <File FileName="API/Helpers/ProductUrlResolver.cs" Line="24" Column="25" />
+      <File FileName="API/Helpers/MappingProfiles.cs" Line="14" Column="83" />
+      <File FileName="API/Startup.cs" Line="53" Column="34" />
+      <File FileName="Core/Specifications/ISpecification.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="skinet" expanded="True">
+            <Node name="API" expanded="True">
+              <Node name="wwwroot" expanded="True">
+                <Node name="ApiImages" expanded="True">
+                  <Node name="images" expanded="True">
+                    <Node name="products" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+            <Node name="Core" expanded="True">
+              <Node name="Entities" expanded="True" />
+              <Node name="Specifications" expanded="True">
+                <Node name="ISpecification.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.API PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

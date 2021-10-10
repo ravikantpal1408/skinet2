@@ -1,5 +1,5 @@
 using System.Collections.Generic;
-using System.Linq;
+
 using System.Threading.Tasks;
 using API.Dtos;
 using AutoMapper;
@@ -35,16 +35,6 @@ namespace API.Controllers
         {
             var spec = new ProductsWithTypesAndBrandsSpecification();
             var product = await _productsRepo.ListAsync(spec);
-            // var result = product.Select(product => new ProductToReturnDTO
-            // {
-            //     Id = product.Id,
-            //     Name = product.Name,
-            //     Description = product.Description,
-            //     PictureUrl = product.PictureUrl,
-            //     Price = product.Price,
-            //     ProductBrand = product.ProductBrand.Name,
-            //     ProductType = product.ProductType.Name
-            // }).ToList();
             var result = _mapper.Map<IReadOnlyList<Product>, IReadOnlyList<ProductToReturnDTO>>(product);
             return Ok(result);
         }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "KPQw4gqy4CYSyJ77vei1g1uackX5IFXzzJRvPZ/ddkEm/Ar/ytCbwlevN5IRgADWmrgS+HsK9ImTFNRRY6A3UA==",
+  "dgSpecHash": "0fYBqvptvAm3js+3coeKbOxxmFQBjE1u6qygNAFYf/EiWUYFrcAtwi+Vg5r3uNYJ8fQjL1HavQ+YCqRC9Rrptg==",
   "success": true,
   "projectFilePath": "/Volumes/MyDrive/WORK/skinet/API/API.csproj",
   "expectedPackageFiles": [
@@ -59,7 +59,8 @@
     "/Users/ravi/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
     "/Users/ravi/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512",
     "/Users/ravi/.nuget/packages/system.text.encoding/4.3.0/system.text.encoding.4.3.0.nupkg.sha512",
-    "/Users/ravi/.nuget/packages/system.threading.tasks/4.3.0/system.threading.tasks.4.3.0.nupkg.sha512"
+    "/Users/ravi/.nuget/packages/system.threading.tasks/4.3.0/system.threading.tasks.4.3.0.nupkg.sha512",
+    "/Users/ravi/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.8/microsoft.netcore.app.host.osx-x64.5.0.8.nupkg.sha512"
   ],
   "logs": []
 }
