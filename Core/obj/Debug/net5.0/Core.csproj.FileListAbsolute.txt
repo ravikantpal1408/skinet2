@@ -9,3 +9,4 @@
 /Volumes/MyDrive/WORK/skinet/Core/obj/Debug/net5.0/Core.dll
 /Volumes/MyDrive/WORK/skinet/Core/obj/Debug/net5.0/ref/Core.dll
 /Volumes/MyDrive/WORK/skinet/Core/obj/Debug/net5.0/Core.pdb
+/Volumes/MyDrive/WORK/skinet/Core/obj/Debug/net5.0/Core.csproj.AssemblyReference.cache
