@@ -27,9 +27,11 @@
     <Folder Include="wwwroot\" />
     <Folder Include="Errors\" />
     <Folder Include="Middlewares\" />
+    <Folder Include="Extensions\" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="Errors\" />
     <None Remove="Middlewares\" />
+    <None Remove="Extensions\" />
   </ItemGroup>
 </Project>

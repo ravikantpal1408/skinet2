@@ -1,26 +1,21 @@
 ﻿<Properties StartupConfiguration="{D91183B9-10D5-40C5-84CD-4BE3CEEC43AF}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="API/Controllers/BuggyController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="API/Extensions/SwaggerServiceExtension.cs">
     <Files>
-      <File FileName="API/Controllers/BaseApiController.cs" Line="6" Column="13" />
-      <File FileName="API/Startup.cs" Line="51" Column="74" />
-      <File FileName="API/Controllers/BuggyController.cs" Line="34" Column="1" />
+      <File FileName="API/Extensions/ApplicationServicesExtensions.cs" Line="13" Column="2" />
+      <File FileName="API/Startup.cs" Line="40" Column="14" />
+      <File FileName="API/Extensions/SwaggerServiceExtension.cs" Line="4" Column="19" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="skinet" expanded="True">
             <Node name="API" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="BuggyController.cs" selected="True" />
+              <Node name="Extensions" expanded="True">
+                <Node name="SwaggerServiceExtension.cs" selected="True" />
               </Node>
-              <Node name="Errors" expanded="True" />
-              <Node name="Middlewares" expanded="True" />
             </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
