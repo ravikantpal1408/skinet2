@@ -1,19 +1,26 @@
 ﻿<Properties StartupConfiguration="{D91183B9-10D5-40C5-84CD-4BE3CEEC43AF}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="API/Startup.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="API/Controllers/BuggyController.cs">
     <Files>
-      <File FileName="API/Startup.cs" Line="49" Column="64" />
+      <File FileName="API/Controllers/BaseApiController.cs" Line="6" Column="13" />
+      <File FileName="API/Startup.cs" Line="51" Column="74" />
+      <File FileName="API/Controllers/BuggyController.cs" Line="34" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="skinet" expanded="True">
             <Node name="API" expanded="True">
-              <Node name="Controllers" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="BuggyController.cs" selected="True" />
+              </Node>
               <Node name="Errors" expanded="True" />
-              <Node name="Startup.cs" selected="True" />
+              <Node name="Middlewares" expanded="True" />
             </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

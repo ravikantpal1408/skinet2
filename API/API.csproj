@@ -26,8 +26,10 @@
   <ItemGroup>
     <Folder Include="wwwroot\" />
     <Folder Include="Errors\" />
+    <Folder Include="Middlewares\" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="Errors\" />
+    <None Remove="Middlewares\" />
   </ItemGroup>
 </Project>
