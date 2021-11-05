@@ -1,20 +1,14 @@
 ﻿<Properties StartupConfiguration="{D91183B9-10D5-40C5-84CD-4BE3CEEC43AF}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="API/Helpers/Pagination.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="API/Startup.cs">
     <Files>
-      <File FileName="Core/Specifications/ProductWithFiltersForCountSpecification.cs" Line="12" Column="9" />
-      <File FileName="Core/Specifications/ProductsWithTypesAndBrandsSpecification.cs" Line="7" Column="86" />
-      <File FileName="API/Controllers/ProductsController.cs" Line="43" Column="32" />
-      <File FileName="API/Helpers/Pagination.cs" Line="5" Column="26" />
+      <File FileName="API/Startup.cs" Line="37" Column="23" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="skinet" expanded="True">
             <Node name="API" expanded="True">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Helpers" expanded="True">
-                <Node name="Pagination.cs" selected="True" />
-              </Node>
+              <Node name="Startup.cs" selected="True" />
             </Node>
             <Node name="Core" expanded="True">
               <Node name="Interfaces" expanded="True" />
